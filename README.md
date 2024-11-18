@@ -132,3 +132,4 @@ The following environment variables are supported:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
